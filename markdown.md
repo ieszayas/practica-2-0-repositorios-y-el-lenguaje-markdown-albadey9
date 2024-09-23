@@ -16,7 +16,7 @@ Markdown permite aplicar varios tipos de formato al texto:
 - `Código en línea`: se utiliza una sola tilde invertida (`` ` ``) para formatear el texto como `código en línea`.
 
 Ejemplos:
-```markdown
+
 **Este texto está en negrita**
 *Este texto está en cursiva*
 ~~Este texto está tachado~~

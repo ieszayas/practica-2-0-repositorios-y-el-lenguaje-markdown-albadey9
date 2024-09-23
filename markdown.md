@@ -66,7 +66,7 @@ Para insertar imágenes en Markdown, utiliza la siguiente sintaxis:
 
 Ejemplo:
 
-![Ejemplo de Imagen](imagen3.png)
+![Ejemplo de Imagen](media/imagen3.png)
 
 ## Enlaces.
 Para insertar enlaces, se utiliza la siguiente sintaxis:

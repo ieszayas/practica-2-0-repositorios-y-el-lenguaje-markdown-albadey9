@@ -17,16 +17,20 @@ Markdown permite aplicar varios tipos de formato al texto:
 
 Ejemplos:
 
-- **Este texto está en negrita**
-- *Este texto está en cursiva*
-- ~~Este texto está tachado~~
-- Este es `código en línea`
+ **Este texto está en negrita**
+
+ *Este texto está en cursiva*
+
+ ~~Este texto está tachado~~
+
+-Este es `código en línea`
 
 
 ## Listas
 
 ### Lista no ordenada:
 Para crear una lista no ordenada hay que utilizar `-` seguido de un espacio.
+
 Ejemplo:
 
 - Elemento 1
@@ -35,7 +39,8 @@ Ejemplo:
   - Sub-Elemento 2.2
 
 ### Lista ordenada:
-Para crear una lista ordenada hay que utillizar numeros seguidos de un punto `1.`.
+Para crear una lista ordenada hay que utillizar numeros seguidos de un punto `1.`
+
 Ejemplo:
 
 1. Primer Elemento
@@ -44,6 +49,7 @@ Ejemplo:
 
 ## Tablas.
 Puedes crear tablas utilizando pipes `|` para separar las columnas y guiones `-` para dividir los encabezados de las filas.
+
 Ejemplo:
 
 | Característica    | Descripción          |
@@ -59,25 +65,31 @@ Para insertar imágenes en Markdown, utiliza la siguiente sintaxis:
 ![Texto alternativo](URL de la imagen)
 
 Ejemplo:
+
 ![Ejemplo de Imagen](imagen3.png)
 
 ## Enlaces.
 Para insertar enlaces, se utiliza la siguiente sintaxis:
+
 [Texto del enlace](URL del enlace)
 
 Ejemplo:
+
 [Visita GitHub](https://github.com)
 
 ## Bloque de código.
 Para mostrar bloques de código, puedes utilizar tres tildes invertidas antes y después del bloque de código.
+
 Para mostrar solo una línea de código se utiliza solo una tilde invertida antes y después de la línea de código.
 
 Ejemplo:
+
 ` Línea de código `
 
 ``` int num = 2;
 	int num_pos = 0;
 	if (num >= 0) {
 		int num_pos++;
-	} ```
+	} 
+```
 
